@@ -1,0 +1,30 @@
+{
+  "name": "node-msdeploy",
+  "version": "1.0.0",
+  "description": "Simplified Node.js interface for MsDeploy (Windows platform only)",
+  "main": "./src/node-msdeploy.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maurobussini/node-msdeploy.git"
+  },
+  "keywords": [
+    "msdeploy",
+    "webdeploy",
+    "windows",
+    "iis",
+    "azure"
+  ],
+  "author": "maurobussini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maurobussini/node-msdeploy/issues"
+  },
+  "homepage": "https://github.com/maurobussini/node-msdeploy#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {}
+}
